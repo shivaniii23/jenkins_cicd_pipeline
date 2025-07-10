@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: shivaniii23/todo-app:latest
+        image: shivanij2304/todo-app:latest
         ports:
         - containerPort: 8000
         
